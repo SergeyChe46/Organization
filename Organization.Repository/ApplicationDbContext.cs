@@ -1,11 +1,8 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using Organization.Entities;
+using Organization.Repository.Services;
 
-namespace Organization.Services
+namespace Organization.Repository
 {
     public class ApplicationDbContext : DbContext
     {
@@ -16,11 +13,18 @@ namespace Organization.Services
         {
             base.OnConfiguring(optionsBuilder);
             optionsBuilder.UseInMemoryDatabase("postgres");
+        }
 
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
+            modelBuilder.ApplyConfiguration(new AdressOptions());
+            modelBuilder.ApplyConfiguration(new EmployeeOptions());
+            modelBuilder.ApplyConfiguration(new CompanyOptions());
         }
 
         public DbSet<Adress> Adresses { get; set; }
         public DbSet<Employee> Employees { get; set; }
-        public DbSet<Organization.Entities.Organization> Organizations { get; set; }
+        public DbSet<Company> Companies { get; set; }
     }
 }

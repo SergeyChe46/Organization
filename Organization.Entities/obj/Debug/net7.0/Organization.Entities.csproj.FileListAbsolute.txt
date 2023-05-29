@@ -1,0 +1,12 @@
+/home/sergeyche/Projects/C_Sharp/Organization/Organization.Entities/bin/Debug/net7.0/Organization.Entities.deps.json
+/home/sergeyche/Projects/C_Sharp/Organization/Organization.Entities/bin/Debug/net7.0/Organization.Entities.dll
+/home/sergeyche/Projects/C_Sharp/Organization/Organization.Entities/bin/Debug/net7.0/Organization.Entities.pdb
+/home/sergeyche/Projects/C_Sharp/Organization/Organization.Entities/obj/Debug/net7.0/Organization.Entities.csproj.AssemblyReference.cache
+/home/sergeyche/Projects/C_Sharp/Organization/Organization.Entities/obj/Debug/net7.0/Organization.Entities.GeneratedMSBuildEditorConfig.editorconfig
+/home/sergeyche/Projects/C_Sharp/Organization/Organization.Entities/obj/Debug/net7.0/Organization.Entities.AssemblyInfoInputs.cache
+/home/sergeyche/Projects/C_Sharp/Organization/Organization.Entities/obj/Debug/net7.0/Organization.Entities.AssemblyInfo.cs
+/home/sergeyche/Projects/C_Sharp/Organization/Organization.Entities/obj/Debug/net7.0/Organization.Entities.csproj.CoreCompileInputs.cache
+/home/sergeyche/Projects/C_Sharp/Organization/Organization.Entities/obj/Debug/net7.0/Organization.Entities.dll
+/home/sergeyche/Projects/C_Sharp/Organization/Organization.Entities/obj/Debug/net7.0/refint/Organization.Entities.dll
+/home/sergeyche/Projects/C_Sharp/Organization/Organization.Entities/obj/Debug/net7.0/Organization.Entities.pdb
+/home/sergeyche/Projects/C_Sharp/Organization/Organization.Entities/obj/Debug/net7.0/ref/Organization.Entities.dll

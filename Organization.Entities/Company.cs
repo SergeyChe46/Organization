@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace Organization.Entities
 {
-    public class Organization
+    public class Company
     {
         public int Id { get; set; }
         public string? Name { get; set; }
