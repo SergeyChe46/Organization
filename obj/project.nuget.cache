@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "xLEjv8ArTszs5xrs+WeuUOOxf5jTOPZTFwIwAnxy/nQbp1jljAMHZReUYEiCJJCm5dd2O59+YHGSD4SPMBcHCA==",
+  "dgSpecHash": "GjqG4rZoAAeTR57vy69CX3Hyp8VfoRTnhs8XsVJ/FI1/EEZNm+pRk43wecju/1rcTaZ1qQcsNLDY8UYw/6zuTw==",
   "success": true,
   "projectFilePath": "/home/sergeyche/Projects/C_Sharp/Organization/Organization.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,7 @@
     "/home/sergeyche/.nuget/packages/microsoft.entityframeworkcore/7.0.5/microsoft.entityframeworkcore.7.0.5.nupkg.sha512",
     "/home/sergeyche/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.5/microsoft.entityframeworkcore.abstractions.7.0.5.nupkg.sha512",
     "/home/sergeyche/.nuget/packages/microsoft.entityframeworkcore.analyzers/7.0.5/microsoft.entityframeworkcore.analyzers.7.0.5.nupkg.sha512",
+    "/home/sergeyche/.nuget/packages/microsoft.entityframeworkcore.inmemory/7.0.5/microsoft.entityframeworkcore.inmemory.7.0.5.nupkg.sha512",
     "/home/sergeyche/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "/home/sergeyche/.nuget/packages/microsoft.extensions.caching.abstractions/7.0.0/microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "/home/sergeyche/.nuget/packages/microsoft.extensions.caching.memory/7.0.0/microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
